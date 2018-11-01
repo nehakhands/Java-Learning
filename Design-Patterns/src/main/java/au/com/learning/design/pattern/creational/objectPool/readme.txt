@@ -1,0 +1,1 @@
+1. When you need large no of obejcts for very short duration and creating each object is very expensive and resource intensive, object pool can be used. 
